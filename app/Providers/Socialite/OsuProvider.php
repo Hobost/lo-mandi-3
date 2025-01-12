@@ -3,8 +3,8 @@
 namespace App\Providers\Socialite;
 
 use GuzzleHttp\ClientInterface;
-use SocialiteProviders\Manager\Oauth2\AbstractProvider;
-use SocialiteProviders\Manager\Oauth2\User;
+use SocialiteProviders\Manager\OAuth2\AbstractProvider;
+use SocialiteProviders\Manager\OAuth2\User;
 
 class OsuProvider extends AbstractProvider
 {
