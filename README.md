@@ -18,7 +18,7 @@ Me, The other Nathan, and Kennard :D
 - Composer
 - Laravel >= 11.x
 - MySQL
-- osu account
+- osu! account
 
 ## Installation
 1. git clone
