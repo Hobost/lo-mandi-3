@@ -1,4 +1,7 @@
 # lo-mandi-3
+![AtsukoGrin](https://raw.githubusercontent.com/Hobost/lo-mandi-3/refs/heads/main/public/mandi.png)
+
+## Info
 aka Lomba Osu tapi Match at Night di Indonesia  
 laravel uni project  
 main focus is to showcase backend functionallity // mvc structure and laravel routing thingy (admin page is intentionally public so my lecturer can access it)  
