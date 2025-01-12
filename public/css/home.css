@@ -1,0 +1,17 @@
+.custom-bg {
+    background-color: #efebf6;     
+}
+
+.button-color{
+    background-color: #bf88d5;
+}
+.bg-light{
+    background-image: url('../home.jpg'); /* Background image for the content below the header */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.custom-image-size{
+    width: 400px;  /* ganti disini ukuran image */
+    height: auto;  
+}

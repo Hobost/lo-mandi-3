@@ -1,0 +1,28 @@
+.badge-nm {
+    background-color: #ADD8E6;
+    color: #ADD8E6;
+}
+.badge-hd {
+    background-color: #f7d7a4;
+    color: #f7d7a4;
+}
+.badge-hr {
+    background-color: #F08080;
+    color: #000;
+}
+.badge-dt {
+    background-color: #e5b6ff; 
+    color: #000;
+}
+.badge-fm {
+    background-color: #bcffb6; 
+    color: #000;
+}
+.badge-tb {
+    background-color: #f9b6e3; 
+    color: #000;
+}
+.badge-default {
+    background-color: #E0E0E0;
+    color: #000;
+}

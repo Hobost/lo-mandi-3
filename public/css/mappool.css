@@ -1,0 +1,30 @@
+.list-group-item {
+    transition: background-color 0.3s ease-in-out;
+}
+
+.list-group-item:hover {
+    background-color: rgba(255, 203, 253, 0.5);
+}
+
+.selected-stage {
+    font-weight: bold;
+    color: rgb(187, 53, 187);
+}
+
+.stage-button {
+    text-decoration: none;
+    color: inherit;
+    font-size: 1rem;
+    padding: 0;
+    border: none;
+    background: none;
+    width: 100%;
+}
+
+.stage-button:hover {
+    text-decoration: none;
+}
+
+.text-purple {
+    color: rgb(61, 18, 203) !important;
+}
