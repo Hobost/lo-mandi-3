@@ -6,7 +6,7 @@
 @endsection
 @section('content')
 
-<div class="container mt-5">
+<div class="container mt-5 mb-5">
     <div class="row">
         <div class="col-md-3">
             <form method="POST" action="{{ route('schedules.changeStage') }}">
