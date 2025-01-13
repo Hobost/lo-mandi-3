@@ -11,7 +11,7 @@ also not sure if everything of what im doing is correct but if it works it works
 if anyone finds this somehow dont bully
 
 ## Contributors
-Me, The other Nathan, and Kennard :D
+Me (Nathan), The other Nathan (Marvin), and Kennard :D
 
 ## Requirements
 - PHP >= 8.1
