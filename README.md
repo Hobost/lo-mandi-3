@@ -4,8 +4,8 @@
 ## Info
 aka Lomba Osu tapi Match at Night di Indonesia  
 laravel uni project  
-main focus is to showcase backend functionallity // mvc structure and laravel routing thingy (admin page is intentionally public so my lecturer can access it)  
-frontend mostly uses bootstrap (for now) cause thats what we were taught, is not great (especially mobile view) but thats not the point (tight deadline ok)  
+main focus is to showcase backend functionallity // mvc structure and laravel routing thingy. the admin page is intentionally public so my lecturer can access it  
+frontend mostly uses bootstrap for now cause thats what we were taught, is not great, especially mobile view, but thats not the point (tight deadline ok)  
 error handling may or may not be lacking, i did my best  
 also not sure if everything of what im doing is correct but if it works it works innit  
 if anyone finds this somehow dont bully
