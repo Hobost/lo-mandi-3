@@ -70,7 +70,7 @@
             <a class="nav-link" aria-current="page" href="{{ route('players') }}">Players</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="{{ route('schedules') }}">Schedues</a>
+            <a class="nav-link" aria-current="page" href="{{ route('schedules') }}">Schedules</a>
           </li> 
           <li class="nav-item">
             <a class="nav-link" aria-current="page" href="{{ route('info') }}">Info</a>
